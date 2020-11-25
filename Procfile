@@ -1,1 +1,1 @@
-web: gunicorn coresite.wsgi --access-logfile -
+web: gunicorn SushenBiswasFramework.wsgi --access-logfile -
